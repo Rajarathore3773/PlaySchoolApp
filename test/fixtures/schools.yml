@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sch_name: MyString
+  sch_address: MyString
+  sch_email: MyString
+  sch_code: MyString
+
+two:
+  sch_name: MyString
+  sch_address: MyString
+  sch_email: MyString
+  sch_code: MyString
